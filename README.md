@@ -30,3 +30,4 @@
 * libshin-cookie
 * libshin-d3
 * libshin-zshagoo
+* libshin-detriched
